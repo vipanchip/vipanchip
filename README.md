@@ -1,5 +1,5 @@
 <!--Banner-->
-![sushantkrsky Banner Image](./banner.jpg)
+![vipanchi Banner Image](./banner.jpg)
 
 <!--Night Owl image-->
 <div>
@@ -7,7 +7,7 @@
 </div>
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ sushant! 
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ vipanchi! 
 *CSE Major (Developer / Programmer)*
 <br />
 
