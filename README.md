@@ -22,7 +22,7 @@
 - 👯 I’m looking to collaborate on Project based on "AI/ML"
 - 💬 Ask me about What motivates you to work hard.
 
-- 👨‍💻 All of my projects are available at [vipanchiprasanna.github.io](vipanchiprasanna.githib.io)
+- 👨‍💻 All of my projects are available at [vipanchip.github.io](vipanchip.githib.io)
 
 
 <!--Profile Count Badge-->
