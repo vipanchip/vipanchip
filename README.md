@@ -21,13 +21,13 @@
 - 🌱 I’m currently learning all about DSA, Software Development, Frameworks and Databases.
 - 👯 I’m looking to collaborate on Project based on "AI/ML"
 - 💬 Ask me about What motivates you to work hard.
-- 📫 How to reach me sushantkrsky@gmail.com
+- 📫 How to reach me vipanchiprasanna@gmail.com
 - 👨‍💻 All of my projects are available at [sushantkrsky.me](sushantkrsky.me)
 
 
 <!--Profile Count Badge-->
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=sushantkrsky&label=Profile%20views&color=0e75b6&style=for-the-badge&logo=star" alt="sushantkrsky" style="padding-right:20px;" />
+<img src="https://komarev.com/ghpvc/?username=vipanchi&label=Profile%20views&color=0e75b6&style=for-the-badge&logo=star" alt="vipanchi" style="padding-right:20px;" />
 </p>
 
 ---
