@@ -22,7 +22,7 @@
 - 👯 I’m looking to collaborate on Project based on "AI/ML"
 - 💬 Ask me about What motivates you to work hard.
 - 📫 How to reach me vipanchiprasanna@gmail.com
-- 👨‍💻 All of my projects are available at [sushantkrsky.me](sushantkrsky.me)
+- 👨‍💻 All of my projects are available at [vipanchi.me](vipanchi.me)
 
 
 <!--Profile Count Badge-->
@@ -114,16 +114,16 @@
     <td width="50%">
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
-        <a href="https://github.com/sushantkrsky">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=sushantkrsky&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
+        <a href="https://github.com/vipanchi">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=vipanchi&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
         </a>
       </p>
     </td>
     <td width="50%">
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
-        <a href="https://github.com/sushantkrsky">
-          <img align="center" src="https://streak-stats.demolab.com?user=sushantkrsky&theme=nightowl" alt="Streak Stats" />
+        <a href="https://github.com/vipanchi">
+          <img align="center" src="https://streak-stats.demolab.com?user=vipanchi&theme=nightowl" alt="Streak Stats" />
         </a>
       </p>
     </td>
@@ -132,16 +132,16 @@
     <td width="50%">
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
-        <a href="https://github.com/sushantkrsky/Modern-SaaS-Landing-page">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=sushantkrsky&repo=Modern-SaaS-Landing-page&theme=nightowl&show_owner=true" alt="Chatbot-for-Healthcare-System-Project"/>
+        <a href="https://github.com/vipanchi/Modern-SaaS-Landing-page">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=vipanchi&repo=Modern-SaaS-Landing-page&theme=nightowl&show_owner=true" alt="Chatbot-for-Healthcare-System-Project"/>
         </a>
       </p>
     </td>
     <td width="50%">
       <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
       <p align="center">
-        <a href="https://github.com/sushantkrsky">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=sushantkrsky&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
+        <a href="https://github.com/vipanchi">
+          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=vipanchi&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
         </a>
       </p>
     </td>
@@ -152,7 +152,7 @@
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sushantkrsky&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=vipanchi&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
 </div>
 
 ---
@@ -178,19 +178,19 @@
 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
- <a href="https://www.linkedin.com/in/sushantkrsky/" target="_blank">
+ <a href="https://www.linkedin.com/in/vipanchi/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
   
-<a href="mailto:sushantkrsky@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=sushantkrsky@gmail.com mail style="margin-bottom: 5px;" />
+<a href="mailto:vipanchiprasanna@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=vipanchiprasanna@gmail.com mail style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.instagram.com/sushantkrsky" target="_blank">
+<a href="https://www.instagram.com/vipanchi" target="_blank">
 <img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=kiran_a_n Instagram style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://twitter.com/sushantkrsky" target="_blank">
+<a href="https://twitter.com/vipanchi" target="_blank">
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="kiran__a__n Twitter" style="margin-bottom: 5px;" />
 </a>
 </div>
@@ -198,11 +198,11 @@
 
 <!--Buy me a coffee-->
 <div align="center">
-<a href="https://www.buymeacoffee.com/sushantkrsky" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 200px !important;" ></a>
+<a href="https://www.buymeacoffee.com/vipanchi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 200px !important;" ></a>
 </div>
 
 <div align="center">
-<a href="https://ko-fi.com/sushantkrsky" target="_blank"> <img src="https://cdn.ko-fi.com/cdn/kofi3.png" alt="sushantkrsky" style="height: 35px !important; width: 200px !important;" ></a>
+<a href="https://ko-fi.com/vipanchi" target="_blank"> <img src="https://cdn.ko-fi.com/cdn/kofi3.png" alt="vipanchi" style="height: 35px !important; width: 200px !important;" ></a>
 </div>
 
 
