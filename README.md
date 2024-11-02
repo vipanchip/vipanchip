@@ -1,5 +1,6 @@
 <!--Banner-->
-![vipanchi Banner Image](./banner.jpg)
+![vipanchi Banner Image](./banner.png
+)
 
 <!--Night Owl image-->
 <div>
