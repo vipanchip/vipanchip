@@ -21,8 +21,8 @@
 - 🌱 I’m currently learning all about DSA, Software Development, Frameworks and Databases.
 - 👯 I’m looking to collaborate on Project based on "AI/ML"
 - 💬 Ask me about What motivates you to work hard.
-- 📫 How to reach me vipanchiprasanna@gmail.com
-- 👨‍💻 All of my projects are available at [vipanchi.me](vipanchi.me)
+
+- 👨‍💻 All of my projects are available at [vipanchiprasanna.me](vipanchiprasanna.me)
 
 
 <!--Profile Count Badge-->
